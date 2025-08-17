@@ -1,0 +1,11 @@
+/* Tema escuro */
+.dark-mode {
+  background-color: darkolivegreen;
+  color: #141414;
+  transition: 1s;
+}
+
+.dark-mode a {
+  color: #f5f5f5;
+  transition: 2s;
+}

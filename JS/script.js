@@ -7,4 +7,4 @@ document.getElementById("btnSaudacao").addEventListener("click", function() {
 document.getElementById("btnDarkMode").addEventListener("click", function() {
   document.body.classList.toggle("dark-mode");
 });
-// alert("Olá Mundo")
+
