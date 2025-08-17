@@ -5,6 +5,7 @@
 @import "./formacao.css";
 @import "./footer.css";
 @import "./tema.css";
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
 
 img{
   border-radius:50% ;
